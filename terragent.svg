@@ -4,7 +4,7 @@
     M60 40 L80 40 L100 60 L120 40 L140 40 
     L110 70 L140 100 L120 100 L100 80 L80 100 L60 100 
     L90 70 Z"
-    fill="none" stroke="gray" stroke-width="2" stroke-dasharray="5 3"/>
+    fill="white" stroke="gray" stroke-width="2" stroke-dasharray="5 3"/>
 
   <!-- 齿轮：大 -->
   <g transform="translate(95,65) scale(1.2)">
